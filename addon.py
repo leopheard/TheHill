@@ -9,11 +9,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://i1.sndcdn.com/avatars-000353158793-6wigvp-large.jpg"},
+            'thumbnail': "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.sndcdn.com%2Favatars-000353158793-6wigvp-t500x500.jpg&f=1&nofb=1"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': "https://i1.sndcdn.com/avatars-000353158793-6wigvp-large.jpg"},
+            'thumbnail': "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.sndcdn.com%2Favatars-000353158793-6wigvp-t500x500.jpg&f=1&nofb=1"},
     ]
     return items
 

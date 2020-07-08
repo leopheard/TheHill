@@ -6,8 +6,10 @@
 
 Included are:
 
-- <a href="https://thehill.com/podcasts/history-cast">Hillcast</a><br>
+- <a href="https://thehill.com/podcasts/hillcast">Hillcast</a><br>
 - <a href="https://thehill.com/podcasts/history-cast">Historycast</a><br>
+
+Journalists Alexis Simendinger and Niv Elis provide a behind-the-scenes view of the latest breaking developments, drilling deep to get to the heart of what’s happening, and why it matters to you. Listen to AM View weekday mornings, PM View weekday afternoons, and Power Politics on the weekend.<br>
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 
